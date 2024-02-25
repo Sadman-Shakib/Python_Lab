@@ -13,9 +13,9 @@
 #solution
 
 def fun(arr, n):
-    s = set(arr)
-    l = list(s)
-    return sum(l[:n])
+    st = set(arr)
+    ls = list(st)
+    return sum(ls[:n])
 
 a = [2, 1, 3, 4, 0, 5]
 
