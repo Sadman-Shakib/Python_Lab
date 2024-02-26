@@ -4,7 +4,7 @@
     Sample Input                              Sample Output
 
     5, 2, 4, 2, 4                                7
-    7, 3, 5, 1. 9
+    7, 3, 5, 1, 9
 
 """
 
