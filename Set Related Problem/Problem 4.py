@@ -11,12 +11,11 @@
 """
 
 #solution
+a = [2, 1, 3, 4, 0, 5]
 
 def fun(arr, n):
     st = set(arr)
     ls = list(st)
     return sum(ls[:n])
-
-a = [2, 1, 3, 4, 0, 5]
 
 print(fun(a, 3))

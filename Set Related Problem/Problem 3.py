@@ -7,8 +7,8 @@ you are given a set {1, 2, 3, 4, 5} and a list  [1, 2, 3] remove all integers fr
                                       4, 5
 """
 
+#solution
 s = {1, 2, 3, 4, 5}
-
 num = [1, 2, 3]
 
 for i in num:

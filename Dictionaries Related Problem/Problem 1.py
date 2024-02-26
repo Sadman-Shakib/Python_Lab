@@ -8,10 +8,10 @@
 """
 
 #solution
-
 ls = ["A+", "A", "A-", "A+", "B-", "A+"]
 cnt = dict()
 ans = 0
+
 for i in ls:
     if i in cnt:
         cnt[i] += 1
